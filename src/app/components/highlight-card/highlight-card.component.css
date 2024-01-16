@@ -1,5 +1,4 @@
 .container__highlight__card {
-  border: solid white 2px;
   margin-left: 20px;
   margin-right: 20px;
   width: 700px;
@@ -18,4 +17,9 @@
 .highlight__card__sumary > p {
   margin-top: 10px;
   color: gray;
+}
+
+.highlight__card__image > img {
+  width: 100%;
+  min-width: 700px;
 }
