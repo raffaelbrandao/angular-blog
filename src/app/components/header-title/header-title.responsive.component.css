@@ -1,0 +1,5 @@
+@media screen and (max-width: 600px) {
+  .header__title__container > h1 {
+    font-size: 10px;
+  }
+}
